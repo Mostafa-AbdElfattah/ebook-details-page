@@ -1,0 +1,11 @@
+.logoUser-bar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.logoUser-bar-container img{
+    width: 103px;
+    height: 85px;
+}

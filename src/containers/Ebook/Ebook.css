@@ -1,0 +1,15 @@
+.page-container{
+    padding-top: 50px;
+}
+
+.page-container h1{
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.react-pdf__Page{
+    overflow: hidden;
+    max-height: 782px;
+}
